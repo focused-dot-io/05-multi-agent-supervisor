@@ -42,4 +42,5 @@ python swarm.py
 
 ## Article
 
-[Multi-Agent Orchestration -- Supervisor and Swarm Patterns in LangGraph](#)
+[[Multi-Agent Orchestration -- Supervisor and Swarm Patterns in LangGraph](#)
+]([url](https://focused.io/lab/multi-agent-orchestration-in-langgraph-supervisor-vs-swarm-tradeoffs-and-architecture))
